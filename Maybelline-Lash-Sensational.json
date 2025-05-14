@@ -1,0 +1,873 @@
+{
+  "keys": [
+    "maybelline/lash-sensational-wydluzajacy-i-pogrubiajacy-tusz-do-rzes/"
+  ],
+
+  "type": 0,
+  "language": "pl-PL",
+  "campaign": "Maybelline Lash Sensational",
+  "rpc": "MAY1684",
+  "dateOnSaleFrom": null,
+  "owner": "estore",
+  "contents": [
+    {
+      "name": "Maybelline Lash Sensational",
+      "key": "",
+      "isApproved": false,
+      "rich": {
+        "components": [
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/KV-mobile.jpg",
+                "element": "img",
+                "alt": "Maybelline Lash Sensational",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/KV.jpg",
+                "element": "img",
+                "alt": "Maybelline Lash Sensational",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Bądź zjawiskowa... i rozwiń swoje rzęsy niczym wachlarz<br> <span style=\"text-transform: uppercase; font-weight: normal; font-size: 30px\">Z RÓŻOWĄ MASCARĄ <b>LASH SENSATIONAL!</b></span>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "20px",
+                  "fontWeight": "bold",
+                  "textTransform": "normal",
+                  "color": "#000",
+                  "marginTop": "20px",
+                  "marginBottom": "25px",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "text-align": "center",
+                  "fontSize": "30px",
+                  "textTransform": "uppercase",
+                  "color": "#000"
+                }
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsThree",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "SILIKONOWA SZCZOTECZKA WACHLARZ",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "precyzyjne rozdzielenie rzęs",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "http://localhost:8000/images/MOD-02-A.jpg",
+                "element": "img",
+                "alt": "Precyzyjne rozdzielenie",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "WYPUSTKI RÓŻNEJ DŁUGOŚCI",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "dotarcie do najkrótszych rzęs",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "http://localhost:8000/images/MOD-02-B.jpg",
+                "element": "img",
+                "alt": "Dotarcie do najkrótszych rzęs",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "FORMUŁA Z OLEJKIEM Z DZIKIEJ RÓŻY",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "efekt odżywienia",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "http://localhost:8000/images/MOD-02-C.jpg",
+                "element": "img",
+                "alt": "Efekt odżywienia",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "marginBottom": "32px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "fiftyFifty",
+            "variant": "v2",
+            "data": [
+              {
+                "name": "header",
+                "value": "EFEKT?",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "24px",
+                  "fontWeight": "bold",
+                  "color": "#000",
+                  "textAlign": "left",
+                  "fontStyle": "normal",
+                  "textTransform": "uppercase",
+                  "padding": "0 16px",
+                  "lineHeight": "1",
+                  "marginTop": "30px",
+                  "maxWidth": "100%"
+                }
+              },
+              {
+                "name": "content",
+                "value": "<p>1. Precyzyjnie rozdzielone rzęsy</p><p>2. Nieziemsko wydłużone i odżywione rzęsy</p><p>3. Widocznie zwiększona objętość bez grudek</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "16px",
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "maxWidth": "400px",
+                  "padding": "0 16px"
+                }
+              },
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-03.jpg",
+                "element": "img",
+                "alt": "EFEKT",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "16px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-04-mobile.jpg",
+                "element": "img",
+                "alt": "Idealnie rozdzielone i odżywione rzęsy",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-04.jpg",
+                "element": "img",
+                "alt": "Idealnie rozdzielone i odżywione rzęsy",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "POZNAJ CAŁĄ GAMĘ MASKAR <b>LASH&nbsp;SENSATIONAL:</b>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "30px",
+                  "fontWeight": "normal",
+                  "textTransform": "uppercase",
+                  "color": "#000",
+                  "marginTop": "20px",
+                  "marginBottom": "25px",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "text-align": "center",
+                  "fontSize": "30px",
+                  "textTransform": "uppercase",
+                  "color": "#000"
+                }
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsFour",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Lash Sensational <br>Intense Black",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "http://localhost:8000/images/MOD-05-A.jpg",
+                "element": "img",
+                "alt": "Intense Black",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "Lash Sensational <br>Very Black",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "http://localhost:8000/images/MOD-05-B.jpg",
+                "element": "img",
+                "alt": "Very Black",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "Lash Sensational <br>Waterproof",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "http://localhost:8000/images/MOD-05-C.jpg",
+                "element": "img",
+                "alt": "Efekt odżywienia",
+                "properties": {}
+              },
+              {
+                "name": "columnFourTitle",
+                "value": "Lash Sensational <br>Burgundy Brown",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnFourText",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnFourAsset",
+                "value": "http://localhost:8000/images/MOD-05-D.jpg",
+                "element": "img",
+                "alt": "Burgundy Brown",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "marginBottom": "32px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsFive",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Lash Sensational <br>Sky High <br>Very Black",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "http://localhost:8000/images/MOD-06-A.jpg",
+                "element": "img",
+                "alt": "Sky High Very Black",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "Lash Sensational <br>Sky High <br> Cosmic Black",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "http://localhost:8000/images/MOD-06-B.jpg",
+                "element": "img",
+                "alt": "Sky High Cosmic Black",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "Lash Sensational <br>Sky High <br>Waterproof",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "http://localhost:8000/images/MOD-06-C.jpg",
+                "element": "img",
+                "alt": "Sky High Waterproof",
+                "properties": {}
+              },
+              {
+                "name": "columnFourTitle",
+                "value": "Lash Sensational <br>Sky High <br>brown",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnFourText",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnFourAsset",
+                "value": "http://localhost:8000/images/MOD-06-D.jpg",
+                "element": "img",
+                "alt": "Sky High brown",
+                "properties": {}
+              },
+              {
+                "name": "columnFiveTitle",
+                "value": "Lash Sensational <br>Sky High <br>Space Diamond",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnFiveText",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnFiveAsset",
+                "value": "http://localhost:8000/images/MOD-06-E.jpg",
+                "element": "img",
+                "alt": "Sky High Space Diamond",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "marginBottom": "32px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "REZULTAT? <b>ZMYSŁOWE SPOJRZENIE!</b>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "30px",
+                  "fontWeight": "normal",
+                  "textTransform": "uppercase",
+                  "color": "#000",
+                  "marginTop": "20px",
+                  "marginBottom": "25px",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "Dla najlepszych efektów aplikuj tusz od nasady aż po same końce rzęs - dynamicznym ruchem w prawo i lewo, kierując szczoteczkę ku górze. Nie pozwól na wyschnięcie rzęs pomiędzy nakładaniem kolejnych warstw tuszu, by uzyskać jeszcze lepszy efekt zwiększonej objętości rzęs.",
+                "element": "DangerHtml",
+                "properties": {
+                  "text-align": "center",
+                  "fontSize": "18px",
+                  "textTransform": "normal",
+                  "color": "#000"
+                }
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-07-mobile.jpg",
+                "element": "img",
+                "alt": "Maybelline Lash Sensational",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-07.jpg",
+                "element": "img",
+                "alt": "Maybelline Lash Sensational",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "INNE PRODUKTY, KTÓRE <b>MOGĄ CI SIĘ SPODOBAĆ</b>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "30px",
+                  "fontWeight": "normal",
+                  "textTransform": "normal",
+                  "color": "#000",
+                  "marginTop": "20px",
+                  "marginBottom": "25px",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "text-align": "center",
+                  "fontSize": "30px",
+                  "textTransform": "uppercase",
+                  "color": "#000"
+                }
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsThree",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "SUPER STAY LUMI MATTE",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "Lekki, długotrwały podkład, który zapewni Ci nieskazitelne krycie aż do 30 godzin! (test konsumencki, 120 osób). Odkryj efekt satynowego matu i zapomnij o efekcie maski.",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "http://localhost:8000/images/MOD-08-A.jpg",
+                "element": "img",
+                "alt": "Precyzyjne rozdzielenie",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "INSTANT ERASER",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "Multifunkcyjny korektor z aplikatorem w formie gąbeczki doskonale konturuje, koryguje i kryje niedoskonałości, zmniejsza widoczność cieni pod oczami oraz nawilża skórę aż do 12 godzin (test instrumentalny).",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "http://localhost:8000/images/MOD-08-B.jpg",
+                "element": "img",
+                "alt": "Dotarcie do najkrótszych rzęs",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "SUPER STAY VINYL INK",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "Płynna szminka zapewnia długotrwały połysk, niczym lakier do ust. Intensywny kolor utrzymuje się aż do 16h (test konsumencki (samoocena)), nie rozmazuje się i nie ściera.",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "http://localhost:8000/images/MOD-08-C.jpg",
+                "element": "img",
+                "alt": "Efekt odżywienia",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "marginBottom": "32px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
