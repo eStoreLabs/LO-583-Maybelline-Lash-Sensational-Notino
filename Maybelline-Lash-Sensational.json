@@ -21,7 +21,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/KV-mobile.jpg",
+                "value": "KV-mobile.jpg",
                 "element": "img",
                 "alt": "Maybelline Lash Sensational",
                 "properties": []
@@ -43,7 +43,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/KV.jpg",
+                "value": "KV.jpg",
                 "element": "img",
                 "alt": "Maybelline Lash Sensational",
                 "properties": []
@@ -127,7 +127,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "http://localhost:8000/images/MOD-02-A.jpg",
+                "value": "MOD-02-A.jpg",
                 "element": "img",
                 "alt": "Precyzyjne rozdzielenie",
                 "properties": {}
@@ -157,7 +157,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "http://localhost:8000/images/MOD-02-B.jpg",
+                "value": "MOD-02-B.jpg",
                 "element": "img",
                 "alt": "Dotarcie do najkrótszych rzęs",
                 "properties": {}
@@ -187,7 +187,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "http://localhost:8000/images/MOD-02-C.jpg",
+                "value": "MOD-02-C.jpg",
                 "element": "img",
                 "alt": "Efekt odżywienia",
                 "properties": {}
@@ -242,7 +242,7 @@
               },
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/MOD-03.jpg",
+                "value": "MOD-03.jpg",
                 "element": "img",
                 "alt": "EFEKT",
                 "properties": []
@@ -264,7 +264,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/MOD-04-mobile.jpg",
+                "value": "MOD-04-mobile.jpg",
                 "element": "img",
                 "alt": "Idealnie rozdzielone i odżywione rzęsy",
                 "properties": []
@@ -286,7 +286,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/MOD-04.jpg",
+                "value": "MOD-04.jpg",
                 "element": "img",
                 "alt": "Idealnie rozdzielone i odżywione rzęsy",
                 "properties": []
@@ -370,7 +370,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "http://localhost:8000/images/MOD-05-A.jpg",
+                "value": "MOD-05-A.jpg",
                 "element": "img",
                 "alt": "Intense Black",
                 "properties": {}
@@ -400,7 +400,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "http://localhost:8000/images/MOD-05-B.jpg",
+                "value": "MOD-05-B.jpg",
                 "element": "img",
                 "alt": "Very Black",
                 "properties": {}
@@ -430,7 +430,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "http://localhost:8000/images/MOD-05-C.jpg",
+                "value": "MOD-05-C.jpg",
                 "element": "img",
                 "alt": "Efekt odżywienia",
                 "properties": {}
@@ -460,7 +460,7 @@
               },
               {
                 "name": "columnFourAsset",
-                "value": "http://localhost:8000/images/MOD-05-D.jpg",
+                "value": "MOD-05-D.jpg",
                 "element": "img",
                 "alt": "Burgundy Brown",
                 "properties": {}
@@ -505,7 +505,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "http://localhost:8000/images/MOD-06-A.jpg",
+                "value": "MOD-06-A.jpg",
                 "element": "img",
                 "alt": "Sky High Very Black",
                 "properties": {}
@@ -535,7 +535,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "http://localhost:8000/images/MOD-06-B.jpg",
+                "value": "MOD-06-B.jpg",
                 "element": "img",
                 "alt": "Sky High Cosmic Black",
                 "properties": {}
@@ -565,7 +565,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "http://localhost:8000/images/MOD-06-C.jpg",
+                "value": "MOD-06-C.jpg",
                 "element": "img",
                 "alt": "Sky High Waterproof",
                 "properties": {}
@@ -595,7 +595,7 @@
               },
               {
                 "name": "columnFourAsset",
-                "value": "http://localhost:8000/images/MOD-06-D.jpg",
+                "value": "MOD-06-D.jpg",
                 "element": "img",
                 "alt": "Sky High brown",
                 "properties": {}
@@ -625,7 +625,7 @@
               },
               {
                 "name": "columnFiveAsset",
-                "value": "http://localhost:8000/images/MOD-06-E.jpg",
+                "value": "MOD-06-E.jpg",
                 "element": "img",
                 "alt": "Sky High Space Diamond",
                 "properties": {}
@@ -684,7 +684,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/MOD-07-mobile.jpg",
+                "value": "MOD-07-mobile.jpg",
                 "element": "img",
                 "alt": "Maybelline Lash Sensational",
                 "properties": []
@@ -706,7 +706,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/MOD-07.jpg",
+                "value": "MOD-07.jpg",
                 "element": "img",
                 "alt": "Maybelline Lash Sensational",
                 "properties": []
@@ -790,7 +790,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "http://localhost:8000/images/MOD-08-A.jpg",
+                "value": "MOD-08-A.jpg",
                 "element": "img",
                 "alt": "Precyzyjne rozdzielenie",
                 "properties": {}
@@ -820,7 +820,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "http://localhost:8000/images/MOD-08-B.jpg",
+                "value": "MOD-08-B.jpg",
                 "element": "img",
                 "alt": "Dotarcie do najkrótszych rzęs",
                 "properties": {}
@@ -850,7 +850,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "http://localhost:8000/images/MOD-08-C.jpg",
+                "value": "MOD-08-C.jpg",
                 "element": "img",
                 "alt": "Efekt odżywienia",
                 "properties": {}
